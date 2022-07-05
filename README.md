@@ -1,2 +1,3 @@
-# receita
-Aqui será descrito a receita do strogonoff de frango
+# receita 🐔
+
+Aqui será descrito a receita do strogonoff de frango 📖
